@@ -1,11 +1,17 @@
 # AtliQ Hardware Consumer Goods: Ad-Hoc Insights 
 
-## Welcome to the AtliQ Hardware Journey! 
+## Project Overview and Problem Statement
 
-Hey there!  Welcome to my submission for **AtliQ Hardware**, an imaginary company specializing in computer hardware and accessories. AtliQ is expanding globally and needs insights to make data-driven decisions. That’s where I come in!
+Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. specializes in selling computers and accessories.
 
-Tony Sharma, the Data Analytics Director, decided to grow their data analytics team and wanted to see how potential analysts (like me!) can handle real-world business problems. The solution? A SQL challenge! This repository is all about answering 10 business-driven SQL questions and visualizing the results using **Power BI**.
+The management noticed that they did not get enough insights to make quick and smart data-informed decisions. 
+However, Tony Sharma (Data Analytics Director ) wants to expand their data analytics team by adding several junior data analysts. So he decided to conduct a SQL challenge which will help him understand both tech and soft skills
 
+Now the company wants insights for 10 ad hoc / business requests.
+
+This project is part of the data analytics boot camp at codebasics.
+
+video presentation link -
 ---
 
 ##  Tools & Technology Stack
