@@ -38,11 +38,13 @@ Here are the 10 business requests I solved using SQL and visualized with Power B
 
 ### 1. **Where does Atliq Exclusive operate in the APAC region?**
 - **Answer**: Atliq operates in 8 countries in the APAC region, including India, Indonesia, Japan, and more!
+  
   ![Atliq Exclusive Market](https://github.com/user-attachments/assets/155e5ba8-6951-48be-83f5-671dd57723a2)
 
 
 ### 2. **What’s the percentage increase in unique products from 2020 to 2021?**
 - **Answer**: Unique products increased by a strong **36.33%**!
+  
   ![Unique Product Increase](https://github.com/user-attachments/assets/efa5a590-62b9-4eb1-aafd-2965b3b0f576)
 
 
@@ -55,16 +57,19 @@ Here are the 10 business requests I solved using SQL and visualized with Power B
 
 ### 4. **Which segment had the biggest increase in unique products in 2021?**
 - **Answer**: The **Accessories** segment saw a **214%** growth!
+  
   ![Increase in Product Counts by Segment](https://github.com/user-attachments/assets/46097107-7ddd-4d5c-8169-4d24848be3e0)
 
 
 ### 5. **Which products have the highest and lowest manufacturing costs?**
 - **Answer**: **Personal Desktops** have the highest costs at **$240**, while a **Mouse** is the cheapest at **$0.89**.
+  
   ![Highest and Lowest Manufacturing Costs](https://github.com/user-attachments/assets/7e92e6fc-c648-4bba-b6a3-9c26e7ae9ea3)
 
 
 ### 6. **Which top 5 customers got the highest discounts in India (2021)?**
 - **Answer**: **Flipkart** leads with a 30.83% average discount!
+  
   ![Top 5 Customers by Discount]![Screenshot 2024-12-27 220234](https://github.com/user-attachments/assets/09a20433-a092-4a7e-949c-4bacbe8a7fdb)
 
 
