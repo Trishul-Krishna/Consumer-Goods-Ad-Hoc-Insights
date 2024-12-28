@@ -1,14 +1,14 @@
-# AtliQ Hardware Consumer Goods: Ad-Hoc Insights 🚀
+# AtliQ Hardware Consumer Goods: Ad-Hoc Insights 
 
-## Welcome to the AtliQ Hardware Journey! 🎉
+## Welcome to the AtliQ Hardware Journey! 
 
-Hey there! 👋 Welcome to my submission for **AtliQ Hardware**, an imaginary company specializing in computer hardware and accessories. AtliQ is expanding globally and needs insights to make data-driven decisions. That’s where I come in!
+Hey there!  Welcome to my submission for **AtliQ Hardware**, an imaginary company specializing in computer hardware and accessories. AtliQ is expanding globally and needs insights to make data-driven decisions. That’s where I come in!
 
 Tony Sharma, the Data Analytics Director, decided to grow their data analytics team and wanted to see how potential analysts (like me!) can handle real-world business problems. The solution? A SQL challenge! This repository is all about answering 10 business-driven SQL questions and visualizing the results using **Power BI**.
 
 ---
 
-## 🛠️ Tools & Technology Stack
+##  Tools & Technology Stack
 
 ### **1. Database Schema**
 All of the answers are based on the **gdb023 (atliq_hardware_db)** database, which consists of six key tables:
@@ -26,7 +26,7 @@ All of the answers are based on the **gdb023 (atliq_hardware_db)** database, whi
 
 ---
 
-## 🚀 10 Ad-Hoc Business Questions & Insights
+## 10 Ad-Hoc Business Questions & Insights
 
 Here are the 10 business requests I solved using SQL and visualized with Power BI:
 
@@ -98,7 +98,7 @@ Here are the 10 business requests I solved using SQL and visualized with Power B
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 I had a blast working on this project! From uncovering key insights about AtliQ Hardware's sales channels to diving deep into product costs and customer discounts, it’s amazing how data can transform business strategies.
 
