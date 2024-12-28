@@ -70,7 +70,7 @@ Here are the 10 business requests I solved using SQL and visualized with Power B
 ### 6. **Which top 5 customers got the highest discounts in India (2021)?**
 - **Answer**: **Flipkart** leads with a 30.83% average discount!
   
-  ![Top 5 Customers by Discount]![Screenshot 2024-12-27 220234](https://github.com/user-attachments/assets/09a20433-a092-4a7e-949c-4bacbe8a7fdb)
+![Screenshot 2024-12-27 220234](https://github.com/user-attachments/assets/09a20433-a092-4a7e-949c-4bacbe8a7fdb)
 
 
 ### 7. **What were the gross sales for “Atliq Exclusive” each month in 2020 and 2021?**
