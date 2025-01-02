@@ -11,7 +11,7 @@ Now the company wants insights for 10 ad hoc / business requests.
 
 This project is part of the data analytics boot camp at codebasics.
 
-video presentation link -
+Video presentation link -[Presentation Link](https://www.linkedin.com/posts/trishul-krishna_dataanalyst-dataanalyticsproject-codebasics-activity-7280630955470401536-fUAY?utm_source=share&utm_medium=member_desktop)
 ---
 
 ##  Tools & Technology Stack
